@@ -1,0 +1,7 @@
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\bin\Debug\Currency & Temperature Converter.exe.config
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\bin\Debug\Currency & Temperature Converter.exe
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\bin\Debug\Currency & Temperature Converter.pdb
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\obj\Debug\Currency & Temperature Converter.csproj.AssemblyReference.cache
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\obj\Debug\Currency & Temperature Converter.csproj.CoreCompileInputs.cache
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\obj\Debug\Currency & Temperature Converter.exe
+D:\C Sharp Mini Projects\Currency & Temperature Converter\Currency & Temperature Converter\obj\Debug\Currency & Temperature Converter.pdb

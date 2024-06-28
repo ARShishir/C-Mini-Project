@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Sharp Mini Projects\\NumberGuessingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65CCDB63-F36C-484D-B2AB-D083584466A7}|NumberGuessingGame\\NumberGuessingGame.csproj|d:\\c sharp mini projects\\numberguessinggame\\numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CCDB63-F36C-484D-B2AB-D083584466A7}|NumberGuessingGame\\NumberGuessingGame.csproj|solutionrelative:numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C Sharp Mini Projects\\NumberGuessingGame\\NumberGuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "NumberGuessingGame\\Program.cs",
+              "ToolTip": "D:\\C Sharp Mini Projects\\NumberGuessingGame\\NumberGuessingGame\\Program.cs",
+              "RelativeToolTip": "NumberGuessingGame\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:23:33.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

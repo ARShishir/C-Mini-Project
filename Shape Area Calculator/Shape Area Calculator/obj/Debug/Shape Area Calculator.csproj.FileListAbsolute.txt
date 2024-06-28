@@ -1,0 +1,7 @@
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.csproj.AssemblyReference.cache
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.csproj.CoreCompileInputs.cache
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.exe.config
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.exe
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.pdb
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.exe
+D:\C Sharp Mini Projects\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.pdb

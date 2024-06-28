@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Sharp Mini Projects\\Currency \u0026 Temperature Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0F8DEA-6786-41B8-AF59-2B41529F825D}|Currency \u0026 Temperature Converter\\Currency \u0026 Temperature Converter.csproj|d:\\c sharp mini projects\\currency \u0026 temperature converter\\currency \u0026 temperature converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0F8DEA-6786-41B8-AF59-2B41529F825D}|Currency \u0026 Temperature Converter\\Currency \u0026 Temperature Converter.csproj|solutionrelative:currency \u0026 temperature converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C Sharp Mini Projects\\Currency \u0026 Temperature Converter\\Currency \u0026 Temperature Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Currency \u0026 Temperature Converter\\Program.cs",
+              "ToolTip": "D:\\C Sharp Mini Projects\\Currency \u0026 Temperature Converter\\Currency \u0026 Temperature Converter\\Program.cs*",
+              "RelativeToolTip": "Currency \u0026 Temperature Converter\\Program.cs*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:24:35.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

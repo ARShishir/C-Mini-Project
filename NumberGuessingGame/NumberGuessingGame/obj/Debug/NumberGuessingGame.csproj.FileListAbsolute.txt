@@ -1,0 +1,7 @@
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+D:\C Sharp Mini Projects\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb

@@ -1,0 +1,7 @@
+D:\C Sharp Mini Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+D:\C Sharp Mini Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+D:\C Sharp Mini Projects\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+D:\C Sharp Mini Projects\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+D:\C Sharp Mini Projects\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+D:\C Sharp Mini Projects\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+D:\C Sharp Mini Projects\DiceGame\DiceGame\obj\Debug\DiceGame.pdb

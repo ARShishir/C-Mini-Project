@@ -1,0 +1,7 @@
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\C Sharp Mini Projects\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
